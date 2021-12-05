@@ -1,0 +1,13 @@
+steamcmd/*
+cstrike
+
+# Hack to only save a couple files
+garrysmod/*
+!garrysmod/garrysmod
+garrysmod/garrysmod/*
+!garrysmod/garrysmod/cfg
+garrysmod/garrysmod/cfg/*
+
+!garrysmod/run.bat
+!garrysmod/garrysmod/cfg/server.cfg
+!garrysmod/garrysmod/cfg/mount.cfg
