@@ -1,0 +1,13 @@
+
+# Hack to only save a couple files
+*
+!.gitignore
+
+!garrysmod
+garrysmod/*
+!garrysmod/cfg
+garrysmod/cfg/*
+
+!run.bat
+!garrysmod/cfg/server.cfg
+!garrysmod/cfg/mount.cfg
